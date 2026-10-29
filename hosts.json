@@ -1,0 +1,4 @@
+{
+  "map": "{\"directory\":[\"https://packs.synthfit.online/directory/{app}.json\"],\"issuedAt\":1792138910656,\"packs\":[\"https://packs.synthfit.online/packs/v1\",\"https://syntithenai.github.io/yogapp-audio/v1\",\"https://raw.githubusercontent.com/syntithenai/yogapp-audio/main/v1\"],\"resolver\":[],\"v\":2,\"voicePacks\":[\"https://packs.synthfit.online/voices/{voice}/v1\",\"https://syntithenai.github.io/yogapp-audio-{voice}/v1\"]}",
+  "sig": "wIyVLoUF3Zm8DK3AQ7CX+z3Rpb8ZcKSWMUZnpRXwVlNYE6rswnv7+8BloU2shjnYylxKflGK4M4VUE+BCkRoDA=="
+}
